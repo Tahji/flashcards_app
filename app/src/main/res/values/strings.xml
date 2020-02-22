@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">flashcards</string>
+    <string name="what_is_the_capital_city_of_colorado">What is the capital city of Colorado?</string>
+    <string name="denver">Denver</string>
+</resources>
