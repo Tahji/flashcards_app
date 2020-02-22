@@ -1,18 +1,11 @@
 ## flashcards_app
-
-📝 `NOTE:` Paste the README templates for each subsequent lab here at the top, (i.e. lab 2, 3, 4). This will show a history of your development process including which users tories you completed and how your app looked and functioned at each step.
-
 ## Lab 1
-
 ### App Description
-`TODO://` Add app description
+The app changes from front to back side of a flashcard upon button press.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="B7NamNg"><a href="//imgur.com/B7NamNg"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/IBdy8AY"><a href="//imgur.com/a/IBdy8AY"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Required
 - [x] Create New Project in Android Studio
