@@ -5,7 +5,7 @@ The app changes from front to back side of a flashcard upon button press.
 
 ### App Walk-though
 
-
+https://github.com/Tahji/flashcards_app/blob/master/flashCardApp.gif
 
 ## Required
 - [x] Create New Project in Android Studio
