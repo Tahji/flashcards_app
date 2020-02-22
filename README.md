@@ -5,7 +5,7 @@ The app changes from front to back side of a flashcard upon button press.
 
 ### App Walk-though
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/IBdy8AY"><a href="//imgur.com/a/IBdy8AY"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="ccbZGx2"><a href="//imgur.com/ccbZGx2"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Required
 - [x] Create New Project in Android Studio
